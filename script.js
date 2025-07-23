@@ -1,4 +1,4 @@
-const scriptURL = 'YOUR_WEB_APP_URL_HERE'; // Replace with your Apps Script URL
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzAuVgQyAaXZj3jy2AWQRIhy8x4VPLFQMHoOpj3DIRUj_CSqRD0uPPkPd2pQ7PFyC0i2w/exec'; // Replace with your Apps Script URL
 
 document.getElementById('foodForm').addEventListener('submit', function (e) {
   e.preventDefault();
